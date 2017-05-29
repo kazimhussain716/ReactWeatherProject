@@ -1556,7 +1556,7 @@
 /* 252 */
 /***/ function(module, exports, __webpack_require__) {
 
-	eval("'use strict';\n\nvar React = __webpack_require__(1);\n// var Example=React.createClass({\n//     render : function(){\n//      return(\n//      <h3>Example Component</h3>\n//       );\n//     }\n// });\n\nvar Example = function Example(props) {\n     return React.createElement(\n          'h3',\n          null,\n          'Example Component'\n     );\n};\nmodule.exports = Example;\n\n/*****************\n ** WEBPACK FOOTER\n ** ./app/components/Examples.jsx\n ** module id = 252\n ** module chunks = 0\n **/\n//# sourceURL=webpack:///./app/components/Examples.jsx?");
+	eval("'use strict';\n\nvar React = __webpack_require__(1);\n// var Example=React.createClass({\n//     render : function(){\n//      return(\n//      <h3>Example Component</h3>\n//       );\n//     }\n// });\n\nvar Example = function Example(props) {\n     return React.createElement(\n          'h3',\n          null,\n          'Example Component!'\n     );\n};\nmodule.exports = Example;\n\n/*****************\n ** WEBPACK FOOTER\n ** ./app/components/Examples.jsx\n ** module id = 252\n ** module chunks = 0\n **/\n//# sourceURL=webpack:///./app/components/Examples.jsx?");
 
 /***/ }
 /******/ ]);
